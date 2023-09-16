@@ -22,6 +22,6 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisKulik&theme=tokyonight)
 
-### 📈 Codewars:
+### 🐱‍💻 Codewars:
 
 [![codewars](https://www.codewars.com/users/DenisKulik/badges/large)](https://www.codewars.com/users/DenisKulik)
