@@ -1,6 +1,6 @@
 # Hello World, I'm Denis Kulik 👋
 
-I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes React, TypeScript, Redux, and Redux Toolkit to build scalable and maintainable UIs.
+I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes React, TypeScript and Redux (toolkit) to build scalable and maintainable UIs.
 
 ### 💻 Languages and tools:
 
