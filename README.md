@@ -11,7 +11,6 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-41B883?style=flat-square&logo=vuex&logoColor=white" />
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
